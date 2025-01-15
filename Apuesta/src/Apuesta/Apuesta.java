@@ -1,5 +1,9 @@
 package Apuesta;
 
+/**
+@author Alon
+*/
+
 public class Apuesta {
 
     private int dinero_disp;
